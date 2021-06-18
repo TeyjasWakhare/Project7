@@ -1,0 +1,38 @@
+ /*********************TAG Selector*************************/ 
+ 
+ body{ 
+    background-color: lavender;
+  }
+  
+  hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: darkgrey;
+    width: 5%;
+  }
+
+  h1{
+      color: #66BFBF;
+  }
+
+  h3{
+      color: #66BFBF;
+  }
+
+  /*********************Class Selector*************************/
+  .Edu{
+    color: aquamarine;
+  }
+
+  .Work{
+    color: darkolivegreen;
+  }
+
+   /*********************ID Selector*************************/
+  /* #E1{
+     color: darkorange;
+   }
+
+   #W1{
+     color: darkorchid;
+   }*/
